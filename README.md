@@ -118,6 +118,6 @@ Defaulter Monitoring System is a mobile application developed using React Native
 For any questions or feedback, please reach out to:
 
 - **Abdul Khaliq H**
-- **Email**: abdulkhaiq06122003.com
+- **Email**: abdulkhaiq06122003@gmai.com
 - **GitHub**: [Abdul-khaliq-H](https://github.com/Abdul-khaliq-H)
 
